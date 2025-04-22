@@ -1,4 +1,5 @@
 <div align="center">
+![image](https://github.com/user-attachments/assets/a72f997f-4e44-4cbb-9710-1dc49baea6bc)
 
 </div>
 
@@ -14,6 +15,7 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - 🎯 My goal is to develop impactful applications that solve real-world problems while contributing to open-source communities.
 - 💬 Ask me about **frontend development**, **Backend development**, **ReactJS**, and **APIs**.
 <div align="center">
+![image](https://github.com/user-attachments/assets/3358b5a4-5b67-4796-97ba-0aab031988c1)
 
 </div>
 
