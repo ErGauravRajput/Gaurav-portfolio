@@ -1,7 +1,5 @@
 <div align="center">
-  
-    ![image](https://github.com/user-attachments/assets/a72f997f-4e44-4cbb-9710-1dc49baea6bc)
-
+![image](https://github.com/user-attachments/assets/2493e0b1-cf97-46bc-8aac-ff18a7f42682)
 </div>
 
 
