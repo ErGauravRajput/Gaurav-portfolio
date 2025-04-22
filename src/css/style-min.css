@@ -218,6 +218,9 @@ canvas {
   #socialnav .fa-envelope-o {
     font-size: 12px !important;
   }
+  #socialnav img{
+    width:13px;
+  }
 }
 .landing-content {
   position: absolute;
