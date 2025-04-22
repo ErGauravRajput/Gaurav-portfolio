@@ -1,5 +1,5 @@
 <div align="center">
-![image](https://github.com/user-attachments/assets/2493e0b1-cf97-46bc-8aac-ff18a7f42682)
+|![image](https://github.com/user-attachments/assets/2493e0b1-cf97-46bc-8aac-ff18a7f42682)|
 </div>
 
 
@@ -30,22 +30,22 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 
 Here are some highlights from my project portfolio:
 
-### 🔹 [MovieFlix](https://github.com/username/e-learning-platform)
+### 🔹 [MovieFlix](https://github.com/ErGauravRajput/MovieFlix)
 A responsive movie search app built using **React** that fetches and displays movie data from the IMDb API.
 - **Features**: Movie search, real-time results, responsive layout.
 - **Technologies**: React.js, HTML, CSS, JavaScript.
 
-### 🔹 [Weather App](https://github.com/username/job-portal-app)
+### 🔹 [Weather App](https://github.com/ErGauravRajput/Weather-App)
 A real-time weather forecast app developed with **HTML**, **CSS**, and **JavaScript**, using the OpenWeatherMap API.
 - **Features**: City-based search, current weather info, humidity, wind speed, and more.
 - **Technologies**: HTML, CSS, JavaScript, OpenWeatherMap API.
 
-### 🔹 [EdTech Platform](https://github.com/username/text-utils)
+### 🔹 [EdTech Platform](https://github.com/ErGauravRajput/Frontend-Project)
 A sleek and responsive educational platform connecting educators and learners.
 - **Features**: Clean UI, responsive layout, easy navigation for students and teachers.
 - **Technologies**: HTML, CSS.
 
-### 🔹 [URL Shortener](https://github.com/username/css-design-viewer)
+### 🔹 [URL Shortener](https://github.com/ErGauravRajput/url_shortner)
 A full-stack URL shortening app built with Node.js and Express to generate, store, and redirect short links.
 - **Features**: Short URL creation, redirection, backend database support.
 - **Technologies**: Node.js, Express.js, HTML, CSS.
