@@ -1,5 +1,6 @@
 <div align="center">
-![image](https://github.com/user-attachments/assets/a72f997f-4e44-4cbb-9710-1dc49baea6bc)
+  
+    ![image](https://github.com/user-attachments/assets/a72f997f-4e44-4cbb-9710-1dc49baea6bc)
 
 </div>
 
@@ -23,7 +24,7 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 
 - 📧 Email: [Er.gaurav2022@gmail.com](mailto:Er.gaurav2022@gmail.com)
 - 📱 Phone: +91 7983689160
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://gaurav-portfolio-omega.vercel.app/
 
 ---
 
