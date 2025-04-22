@@ -1,5 +1,6 @@
 <div align="center">
-|![image](https://github.com/user-attachments/assets/2493e0b1-cf97-46bc-8aac-ff18a7f42682)|
+![image](https://github.com/user-attachments/assets/2493e0b1-cf97-46bc-8aac-ff18a7f42682)
+  
 </div>
 
 
@@ -13,10 +14,9 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - 🌱 I’m exploring **API development**, **frontend optimization**, and **user experience design**.
 - 🎯 My goal is to develop impactful applications that solve real-world problems while contributing to open-source communities.
 - 💬 Ask me about **frontend development**, **Backend development**, **ReactJS**, and **APIs**.
-<div align="center">
-![image](https://github.com/user-attachments/assets/3358b5a4-5b67-4796-97ba-0aab031988c1)
+  
+  ![image](https://github.com/user-attachments/assets/3358b5a4-5b67-4796-97ba-0aab031988c1)
 
-</div>
 
 ### 🧑‍💻 Contact Me
 
