@@ -409,6 +409,17 @@ canvas {
     margin: 30px;
     margin-left: 10px;
   }
+  .skill-box-full h1{
+    font-size: 20px;
+  }
+  .skill-box-full p{
+    font-size: 15px;
+  }
+  .skill-box-full i {
+    font-size: 25px;
+  }
+
+
 }
 #projects .heading-with-effect {
   margin-bottom: 100px;
